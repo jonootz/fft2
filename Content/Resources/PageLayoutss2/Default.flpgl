@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <PageStyles xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
         <Frame Flow="header" Height="0.5in" Right="-91px" X="91px" Y="0.21875in" ColumnCount="1" Width="6.5in" Bottom="795px" />
