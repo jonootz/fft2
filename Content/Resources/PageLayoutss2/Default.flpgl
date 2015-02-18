@@ -8,5 +8,6 @@
         <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9in" X="-34px" Y="-40px" Right="34px" Bottom="40px">
         </Frame>
         <Frame X="-9px" Y="-68px" Width="33px" Height="9px" Flow="decoration0" Right="600px" Bottom="923px" />
+        <Frame X="-41px" Y="-71px" Width="24px" Height="23px" Flow="decoration1" Right="641px" Bottom="912px" />
     </Page>
 </PageStyles>
