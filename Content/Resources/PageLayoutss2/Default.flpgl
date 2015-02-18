@@ -5,6 +5,6 @@
         <Frame Flow="footer" Height="0.5in" Right="0px" Bottom="-72px" X="0px" Y="9.25in" Width="6.5in" />
         <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9in" X="-34px" Y="-40px" Right="34px" Bottom="40px" />
         <Frame Y="-68px" Width="33px" Height="9px" Flow="decoration0" Bottom="923px" X="60px" Right="531px" />
-        <Frame Bottom="912px" Flow="decoration1" Height="23px" Right="641px" Width="24px" X="-41px" Y="-71px" />
+        <Frame Bottom="912px" Flow="decoration1" Height="23px" Right="491px" Width="174px" X="-41px" Y="-71px" />
     </Page>
 </PageStyles>
