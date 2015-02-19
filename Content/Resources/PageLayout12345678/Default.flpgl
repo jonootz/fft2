@@ -2,7 +2,7 @@
 <PageStyles xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
         <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="8.614583in" X="-34px" Y="-3px" Right="34px" Bottom="40px" />
-        <Frame Flow="header" Height="0.3333333in" Right="47px" X="-52px" Y="0.03125in" ColumnCount="1" Width="6.552083in" Bottom="829px" />
+        <Frame Flow="header" Height="0.3333333in" Right="73px" X="-78px" Y="1.46875in" ColumnCount="1" Width="6.552083in" Bottom="691px" />
         <Frame Flow="footer" Height="0.5in" Right="0px" Bottom="-72px" X="0px" Y="9.25in" Width="6.5in" />
         <Frame Y="-68px" Width="33px" Height="9px" Flow="decoration0" Bottom="923px" X="60px" Right="531px" />
         <Frame Bottom="877px" Flow="decoration1" Height="58px" Right="641px" Width="24px" X="-41px" Y="-71px" />
